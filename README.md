@@ -13,8 +13,13 @@ pip3 install opencv-python==4.6.0
 ## Instructions to run the code
     Run "python3 main.py"
 
+## Implementation
+* Pipeline implemented for stitching images is as shown below
+
+ ![Alt text](./doc/images/pipeline.png?raw=true "pipeline")
+
 ## Results
 * The Result of the stitched image is as shown below
 
 
- ![Alt text](./doc/images/imagestitching.png?raw=true "estimated poses")
+ ![Alt text](./doc/images/imagestitching.png?raw=true "stitched image")
